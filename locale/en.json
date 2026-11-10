@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "CI tracker",
+    "description": "Shows the GitHub Actions runs for the session's current commit under the message box, with every job, step, duration, and the last log lines of a failed step."
+  }
+}
